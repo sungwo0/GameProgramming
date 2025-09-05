@@ -9,6 +9,6 @@ pw : gameprogramming
 
 Dev c++
 
-발표 주제 : vs code & c, copile
+발표 주제 : vs code & c, copilot
 -->
 
