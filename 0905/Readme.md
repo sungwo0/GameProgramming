@@ -7,6 +7,8 @@ pw : gameprogramming
 
 결석 2번 이상, 지각 4번 이상 a 그룹에서 제외
 
+Dev c++
 
+발표 주제 : vs code & c, copile
 -->
 
